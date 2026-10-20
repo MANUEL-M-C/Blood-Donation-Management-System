@@ -1,0 +1,8 @@
+target/
+*.class
+*.log
+*.db
+*.sqlite
+*.sqlite3
+blood_donation*
+.env
